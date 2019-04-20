@@ -30,13 +30,13 @@ echo -e ${blu}" 〉 2- Nightly "${txtrst}${red}"     ︱ Only for the official d
 echo -e "";
 echo -e ${blu}" 〉 3- Weekly "${txtrst}${red}"      ︱ Only for the official weekly builds by the maintainers"${txtrst}
 echo -e "";
-echo -e ${blu}" 〉 4- Release "${txtrst}${red}"     ︱ Only for the official releases by the RR-Team"${txtrst}
+echo -e ${blu}" 〉 4- Release "${txtrst}${red}"     ︱ Only for the official releases by the Alice-Team"${txtrst}
 echo -e "";
-echo -e ${blu}" 〉 5- Milestone "${txtrst}${red}"   ︱ Only for the milestone releases by the RR-Team"${txtrst}
+echo -e ${blu}" 〉 5- Milestone "${txtrst}${red}"   ︱ Only for the milestone releases by the Alice-Team"${txtrst}
 echo -e "";
-echo -e ${blu}" 〉 6- Experimental "${txtrst}${red}"︱ Only for the experimental releases by the RR-Team"${xtrst}
+echo -e ${blu}" 〉 6- Experimental "${txtrst}${red}"︱ Only for the experimental releases by the Alice-Team"${xtrst}
 echo -e "";
-echo -e ${blu}" 〉 7- Final "${txtrst}${red}"       ︱ Only for the final releases by the RR-Team"${xtrst}
+echo -e ${blu}" 〉 7- Final "${txtrst}${red}"       ︱ Only for the final releases by the Alice-Team"${xtrst}
 echo -e "";
 echo -e ${blu}" 〉 30/sec Time-out"${txtrst}${red}" ︱ Default option"${txtrst}
 echo -e "";

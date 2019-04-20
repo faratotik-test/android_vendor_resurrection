@@ -28,7 +28,7 @@
 
 source_tree="$ANDROID_BUILD_TOP"; #path here must be inside home directory
 changelog_path_name=CHANGELOG.mkdn #changelog file path/name.extension
-source_name="Resurrection Remix Pie" #Name to display in changelog.md top before version
+source_name="Alice Pie" #Name to display in changelog.md top before version
 # input variables end
 
 export Changelog=$source_tree/$changelog_path_name
